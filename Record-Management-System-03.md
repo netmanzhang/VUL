@@ -2,8 +2,7 @@
 # Record Management System - SQL Injection on (edit_emp.php id parameter) 
 ## Vendor Homepage:
 https://www.sourcecodester.com/php/5107/record-management-system.html 
-
-Version:V1.0
+## Version:V1.0
 ## Tested on: PHP, Apache, MySQL
 ## Affected Page:
 edit_emp.php 

@@ -2,8 +2,7 @@
 # Record Management System - SQL Injection on (sort2_user.php qualification parameter) 
 ## Vendor Homepage:
 https://www.sourcecodester.com/php/5107/record-management-system.html 
-
-Version:V1.0
+## Version:V1.0
 ## Tested on: PHP, Apache, MySQL
 ## Affected Page:
 sort2_user.php 
